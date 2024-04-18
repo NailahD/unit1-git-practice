@@ -1,0 +1,108 @@
+### Step 2A 
+/c/Users/Nailah
+
+
+### Step 2B
+cd Desktop/
+
+
+### Step 2C
+cd unit1-git-practice/
+
+
+### Step 2D
+/c/Users/Nailah/Desktop/unit1-git-practice
+
+
+
+### Step 2E
+ls
+
+
+### Step 2F
+my-steps.txt
+
+
+
+
+### Step 2G
+cd ..
+cd ..
+
+
+### Step 2H
+/c
+
+
+
+### Step 2I
+'$Recycle.Bin'/             DumpStack.log.tmp   PerfLogs/              'System Volume Information'/   eSupport/
+'$WinREAgent'/              Finish.log         'Program Files'/         Users/                        hiberfil.sys
+ Config.Msi/                Intel/             'Program Files (x86)'/   Windows/                      pagefile.sys
+'Documents and Settings'@   MSOCache/           ProgramData/            bootTel.dat                   pending.un
+ DumpStack.log              OneDriveTemp/       Recovery/               devlist.txt                   swapfile.sys
+
+
+### Step 2J
+cd ~
+
+
+### Step 2K
+cd Desktop/unit1-git-practice/
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
